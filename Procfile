@@ -1,1 +1,1 @@
-web: gunicorn jpx_webapp.wsgi
+web: gunicorn jpx_project.wsgi
